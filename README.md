@@ -1,1 +1,3 @@
 # Batch-Weighing-Machine
+
+A microprocessor system designed as a batch weighing machine interfaced to load cells by means of an A/D converter. The conditioned output of the load cells is defined by a static equation. The system monitors the output of the load cells and finds out the total weight by averaging the values sensed by each load cell. A seven-segment display is used to provide visual-feedback. When this value exceeds 99 kgs, an output port, which is connected to a relay, is switched on to sound an alarm. The user is required to press a switch labelled 'Weigh' to trigger the system once the objects are placed on the load cells. 
